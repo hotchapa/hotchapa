@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JIHUN-KIM%20Frontend&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
 
