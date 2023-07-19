@@ -61,7 +61,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=chartreuse-dark)
   <br>
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/hotchapa"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=nord&hide_border=true" /></a> 
   <br>
   <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
