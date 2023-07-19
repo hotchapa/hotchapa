@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
-
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -63,7 +61,11 @@
   <br>
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=nord&hide_border=true" /></a> 
+  <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
+
+  <br>
 </div>
 
 <!--
