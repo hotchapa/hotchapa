@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
 
 <div align=center><h1>📚 STACKS</h1></div>
-
+<br><br><br>
 <div align=center> 
 <!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
+<br><br><br>
 
  🔭 I’m currently working on ...
  <br>
@@ -57,7 +57,7 @@
  <br>
  ⚡ Fun fact: ...
  <br>
-
+<br><br>
 <div>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=tokyonight)
