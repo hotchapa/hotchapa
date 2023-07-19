@@ -58,7 +58,7 @@
 <br><br>
 <div>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=chartreuse-dark)
   <br>
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=nord&hide_border=true" /></a> 
