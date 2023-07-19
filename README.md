@@ -47,7 +47,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=tokyonight)
 <!--
 **hotchapa/hotchapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
