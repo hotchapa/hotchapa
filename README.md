@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+++jump+quickly)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
