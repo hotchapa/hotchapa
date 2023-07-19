@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+to+Hotchapa!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
 
 <div align=center><h1>📚 STACKS</h1></div>
