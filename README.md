@@ -51,8 +51,7 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=tokyonight)
-
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 <!--
