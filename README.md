@@ -2,7 +2,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JIHUN-KIM&fontSize=90&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hotchapa)](https://solved.ac/hotchapa/)
 
@@ -52,6 +52,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hotchapa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotchapa&layout=compact&theme=tokyonight)
+
+
+
 <!--
 **hotchapa/hotchapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
