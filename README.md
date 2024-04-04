@@ -1,3 +1,5 @@
+<div align=center>
+
 [![mail](https://img.shields.io/badge/pimentocan@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:pimentocan@gmail.com)
 [![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github.io/)
 
@@ -126,7 +128,6 @@
 <br/>
 <br/>
 
-<div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotchapa&count_bg=%231E24FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
