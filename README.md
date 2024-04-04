@@ -1,5 +1,5 @@
 [![mail](https://img.shields.io/badge/pimentocan@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:pimentocan@gmail.com)
-[![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github./)
+[![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github.io/)
 
 ## 👋 안녕하세요 ! **Front-end Developer** 김지훈 입니다.
 
