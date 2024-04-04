@@ -1,10 +1,10 @@
-<div align=center>
 
 [![mail](https://img.shields.io/badge/pimentocan@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:pimentocan@gmail.com)
 [![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github.io/)
 
 ## 👋 안녕하세요 ! **Front-end Developer** 김지훈 입니다.
-
+<br/>
+<br/>
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotchapa&theme=github)
 
@@ -12,7 +12,7 @@
 <br/>
 
 ### 👨‍💼 Experience
-- 삼성 청년 SW 아카데미 (2023.01 ~ 2023.12)
+`-`  삼성 청년 SW 아카데미 (2023.01 ~ 2023.12)
 <br/>
 <br/>
 <br/>
@@ -96,7 +96,7 @@
        <td rowspan="1">Web Programming</td>
        <td> <a href="https://github.com/Hotchapa/SeniorNaver">시니어를 위한 웹 플랫폼 "시니어 네이버"<br></td>
        <td>2023.10 ~ 2023.11 <br>(6 weeks)</td>
-       <td>∙ 회원 관리  ∙ 유행어 사전  ∙ 효과음 설정</td>
+       <td>∙ 회원 관리  ∙ 유행어 사전  ∙ 효과음 설정</td>
        <td>React, Recoil, Tanstack Query, Jest, MSW, Vite, Pnpm, Styled-Component</td>
      </tr>
      <tr>
@@ -131,4 +131,3 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotchapa&count_bg=%231E24FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
