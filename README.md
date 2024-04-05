@@ -3,6 +3,10 @@
 [![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github.io/)
 
 ## 👋 안녕하세요 ! **Front-end Developer** 김지훈 입니다.
+
+
+
+<img width="50%" src="https://github.com/hotchapa/hotchapa/assets/107088906/7d8a33ae-99b6-42b9-8228-fa35a9034d58"/>
 <br/>
 <br/>
 
