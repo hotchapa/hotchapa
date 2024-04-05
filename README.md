@@ -1,9 +1,15 @@
 
+<div align="center">
+  
 [![mail](https://img.shields.io/badge/pimentocan@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:pimentocan@gmail.com)
 [![blog](https://img.shields.io/badge/HotchapaBlog-0FA7FF?style=round-square&logo=Gatsby)](https://hotchapa.github.io/)
-
+<br/>
+<br/>
+<br/>
 ## 👋 안녕하세요 ! **Front-end Developer** 김지훈 입니다.
-
+<br/>
+<br/>
+<br/>
 
 
 <img width="50%" src="https://github.com/hotchapa/hotchapa/assets/107088906/7d8a33ae-99b6-42b9-8228-fa35a9034d58"/>
@@ -141,3 +147,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhotchapa&count_bg=%231E24FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+</div>
