@@ -8,6 +8,12 @@
 
 <img width="50%" src="https://github.com/hotchapa/hotchapa/assets/107088906/7d8a33ae-99b6-42b9-8228-fa35a9034d58"/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotchapa&theme=github)
 
