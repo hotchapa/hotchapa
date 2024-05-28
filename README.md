@@ -63,7 +63,7 @@
     <tr valign="top">
       <td width="80px" align="center">
         <span><strong>ORACLE</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
       </td>
     </tr>
   </tbody>
