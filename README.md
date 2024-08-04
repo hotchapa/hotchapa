@@ -47,7 +47,7 @@
       </td>
       <td align="center">
         <span><strong>Next.js</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>TypeScript</strong></span><br>
