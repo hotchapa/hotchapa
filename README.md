@@ -45,9 +45,13 @@
         <span><strong>React.js</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
+      <td align="center">
+        <span><strong>React.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+      </td>
       <td width="80px" align="center">
         <span><strong>TypeScript</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>JavaScript</strong></span><br>
